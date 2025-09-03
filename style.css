@@ -1,0 +1,40 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0b0c1a;
+  color: #f0f0f0;
+}
+
+header {
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(90deg, #4b00ff, #00d4ff);
+}
+
+header h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #00d4ff;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #111;
+}
